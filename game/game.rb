@@ -1,6 +1,8 @@
 # Advanced Mad Libs Game in Ruby
 #7/5/2020
 
+# More Updates will be added to this game and I will be keeping it all up to date. 
+
      puts "Enter your name: "
      name = gets.chomp()
 
