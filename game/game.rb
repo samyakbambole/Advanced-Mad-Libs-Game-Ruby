@@ -3,6 +3,8 @@
 
 # More Updates will be added to this game and I will be keeping it all up to date. 
 
+# Hope you enjoy the game! 
+
      puts "Enter your name: "
      name = gets.chomp()
 
@@ -38,3 +40,5 @@
      puts ("As " + friend_name + " won, he posted his and the trophy's picture on " + soc_med + " . ")
      puts ("")
      puts ("As " + name + " lost, he was chillin with his " + color + " coloured " + thing + " . ")
+     puts ("")
+     puts ("Hope You Enjoyed the game. Send Your Feedback to my GitHub page. ")
