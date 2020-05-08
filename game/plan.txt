@@ -1,0 +1,23 @@
+Input from user: 
+
+1. Name 
+2. Age
+3. Thing 
+4. Color
+5. Faviorite Game
+6. Cartoon Character 
+7. Location 
+8. Friend's Name
+9. Social Media. 
+
+Story To be updated in Code: 
+
+In {Location} {name} and {friend_name} were competing in the game {fav_game}. 
+
+{friend_name} won and {name} lost the match. So sad about {name}. 
+
+As {friend_name} won, he posted his and his trophy's picture on {Soc_media} 
+
+As {name} lost in the competition, he was chillin' with his {color} coloured {thing} 
+
+This must be the story. 

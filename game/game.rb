@@ -31,20 +31,11 @@
      soc_med = gets.chomp()
 
 
-     puts("Your name is " + name)
+     puts("In " + location + " " +  name + " and " + friend_name + " participated in " + fav_game " . " )
      puts ""
-     puts ("You are " + age)
+     puts (friend_name + " won and " + name + " lost the game. So Sad about " + name + " . ")
      puts ""
-     puts ("You Like " + thing)
+     puts ("As " + friend_name + "won, he posted his and the trophy's picture on " + soc_med + " . ")
      puts ""
-     puts ("You like the color " + color)
-     puts ""
-     puts ("Your Faviorite game is " + fav_game)
-     puts ""
-     puts ("Your Favorite Cartoon Character is " + char)
-     puts ""
-     puts ("Your faviorite place is " + location)
-     puts ""
-     puts ("Your Best Friend is " + friend_name)
-     puts ""
-     puts ("You are on " + soc_med) 
+     puts ("As " + name + " lost, he was chillin with his " + color + " coloured " + thing + " . ")
+     
