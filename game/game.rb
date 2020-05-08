@@ -11,6 +11,12 @@
      puts "Enter your age: "
      age = gets.chomp()
 
+     puts "Enter your gender (he / she): "
+     gender = gets.chomp()
+
+     puts "Enter your gender (his / her): "
+     gender2 = gets.chomp() 
+
      puts "Enter a thing: "
      thing = gets.chomp()
 
@@ -26,8 +32,14 @@
      puts "Enter a location: "
      location = gets.chomp()
 
-     puts "Enter your Friend's Name"
+     puts "Enter your Friend's Name: "
      friend_name = gets.chomp()
+
+     puts "Enter your Friend's Gender (he / she) : "
+     friend_gen = gets.chomp()
+
+     puts "Enter your Friend's Gender (his / her) :"
+     friend_gen2 = gets.chomp()
 
      puts "Enter a social media: "
      soc_med = gets.chomp()
@@ -37,8 +49,7 @@
      puts ("")
      puts (friend_name + " won and " + name + " lost the game. So Sad about " + name + " . ")
      puts ("")
-     puts ("As " + friend_name + " won, he posted his and the trophy's picture on " + soc_med + " . ")
+     puts ("As " + friend_name + " won, " + friend_gen +  " posted " + friend_gen2 + " and the trophy's picture on " + soc_med + " . ")
      puts ("")
-     puts ("As " + name + " lost, he was chillin with his " + color + " coloured " + thing + " . ")
-     puts ("")
-     puts ("Hope You Enjoyed the game. Send Your Feedback to my GitHub page. ")
+     puts ("As " + name + " lost, " + gender + " was chillin with " + gender2 + " " + color + "" + " coloured " + "" + thing + " . ")
+     
