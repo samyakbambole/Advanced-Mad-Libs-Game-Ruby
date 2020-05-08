@@ -31,11 +31,10 @@
      soc_med = gets.chomp()
 
 
-     puts("In " + location + " " +  name + " and " + friend_name + " participated in " + fav_game " . " )
-     puts ""
+     puts ("In " + location + " " +  name + " and " + friend_name + " participated in " + fav_game + " . ")
+     puts ("")
      puts (friend_name + " won and " + name + " lost the game. So Sad about " + name + " . ")
-     puts ""
-     puts ("As " + friend_name + "won, he posted his and the trophy's picture on " + soc_med + " . ")
-     puts ""
+     puts ("")
+     puts ("As " + friend_name + " won, he posted his and the trophy's picture on " + soc_med + " . ")
+     puts ("")
      puts ("As " + name + " lost, he was chillin with his " + color + " coloured " + thing + " . ")
-     
