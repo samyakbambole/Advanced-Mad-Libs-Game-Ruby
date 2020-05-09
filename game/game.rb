@@ -5,6 +5,8 @@
 
 # Hope you enjoy the game! 
 
+# This file will be runned by the batchfile in the parent directory. 
+
      puts "Enter your name: "
      name = gets.chomp()
 
